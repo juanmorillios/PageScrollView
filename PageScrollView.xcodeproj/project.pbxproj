@@ -302,6 +302,7 @@
 				87101A111DBE80B600BE890F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
